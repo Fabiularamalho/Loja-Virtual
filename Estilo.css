@@ -30,3 +30,14 @@ p {
     max-width: 1000px; 
     margin: 0 auto;
 }    
+
+h5 {
+    justify-content: center;
+    text-align: center;
+}
+
+.center {
+    justify-content: center;
+    text-align: center;
+
+}
