@@ -41,3 +41,22 @@ h5 {
     text-align: center;
 
 }
+
+.card-img-top {
+    height: 300px;
+    object-fit: cover;
+  }
+
+.card-img  {
+    height: 400px;
+    object-fit: cover;
+    padding: 10px;
+}
+
+.card-value {
+    font-size: 20px;
+    display: flex;
+    justify-content: center;
+    text-align: center;
+  }
+
